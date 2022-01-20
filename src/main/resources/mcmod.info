@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "Vigilance Example Mod",
+  "description": "An example mod that uses Java and Vigilance",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [""],
+  "credits": "All the people that contributed toward Vigilance & ddozzi",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
