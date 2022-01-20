@@ -1,5 +1,5 @@
 # Vigilance Example Mod (Java)
-I really seen any mods that use [Vigilance](https://github.com/Sk1erLLC/Vigilance) and Essential with Java, so here's a quick example mod I made.
+I haven't really seen any mods that use [Vigilance](https://github.com/Sk1erLLC/Vigilance) and Essential with Java, so here's a quick example mod I made.
 
 ## Usage
 If you're planning on using this in a development environment, don't forget to add
